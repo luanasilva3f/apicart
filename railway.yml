@@ -1,0 +1,6 @@
+services:
+  web:
+    env:
+      PORT: 3000
+    commands:
+      - python app.py
