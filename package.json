@@ -1,0 +1,11 @@
+{
+  "engines": {
+    "node": "18.x"
+  },
+  "pythonDependencies": {
+    "Flask": "^2.3.3",
+    "Flask-Cors": "^4.0.0",
+    "requests": "^2.31.0",
+    "eth-keys": "^0.4.0"
+  }
+}
